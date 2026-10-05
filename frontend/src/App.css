@@ -1,0 +1,30 @@
+#root {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+section {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+form {
+  display: grid;
+  gap: 0.7rem;
+}
+
+input, textarea, button {
+  font: inherit;
+  padding: 0.6rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+li {
+  margin: 0.3rem 0;
+}
